@@ -1,0 +1,345 @@
+{
+  "main": {
+    "id": "87bd0055c0e02571",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbfdc44331523a3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e048d93cb92b467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/Paraffection.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Paraffection"
+            }
+          },
+          {
+            "id": "c14c804db9591e34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Iconic Pieces/Miami Vice Gun Heels.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Miami Vice Gun Heels"
+            }
+          },
+          {
+            "id": "793ce5ffdc4cbb43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cruise Collections.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cruise Collections"
+            }
+          },
+          {
+            "id": "126a9ec6bbf4a19d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "By Year/2009/Cruise • Miami.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cruise • Miami"
+            }
+          },
+          {
+            "id": "02d5da7ffd135b00",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.vogue.com/fashion-shows/resort-2009/chanel",
+                "title": "Chanel Resort 2009 Collection | Vogue",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Chanel Resort 2009 Collection | Vogue"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf60fd265121540a",
+    "type": "split",
+    "children": [
+      {
+        "id": "01cfc369092aaedd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d3f1d9ae9cb1ef1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3256ebb7e644ed3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "10d426822413b40f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9b27f078b7ebcde",
+    "type": "split",
+    "children": [
+      {
+        "id": "025ec85dfce52f5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d149c30d2c51c8c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "By Year/2009/Cruise • Miami.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cruise • Miami"
+            }
+          },
+          {
+            "id": "53e686c9963fc05d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "chanelcanvas.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from chanelcanvas"
+            }
+          },
+          {
+            "id": "e8b314e2c7e00ae0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "07e2221c801332d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "chanelcanvas.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of chanelcanvas"
+            }
+          },
+          {
+            "id": "d3c3683934282eb2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7201c411e5462df5",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "By Year/2009/Cruise • Miami.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Cruise • Miami"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5e048d93cb92b467",
+  "lastOpenFiles": [
+    "chanelog",
+    "chanelog.code-workspace",
+    "publish.css",
+    "Iconic Pieces/Miami Vice Gun Heels.md",
+    "Cruise Collections.md",
+    "By Year/2009/Cruise • Miami.md",
+    "hidden/images/09c/elvira01.png",
+    "hidden/images/09c/00700m.png",
+    "24C.md",
+    "09C.md",
+    "May 2023.md",
+    "publish.css.sb-950637f1-IdtP6m",
+    "publish.css.md",
+    "favicon.ico",
+    "happy star.png",
+    "hidden/images/cara-pharrell-long.png",
+    "hidden/images/cara-pharrell-long.png.crdownload",
+    "hidden/images/cara-pharrell-main.png",
+    "hidden/images/90s-chanel-models.jpg",
+    "People & Events/Sasha Pivovarova.md",
+    "hidden/images/09c/09C-raleight-hotel.png",
+    "hidden/images/09c/09c-karl-in-miami.jpeg",
+    "Iconic Pieces/The Silver Sequin Jacket.md",
+    "By Year/2024/Cruise • Los Angeles.md",
+    "By Year/2024/Métiers d’art • Coromandel Screens.md",
+    "People & Events/Riley Keough.md",
+    "People & Events/Issa Rae.md",
+    "People & Events/Snoop Dogg.md",
+    "People & Events/Marion Cotillard.md",
+    "People & Events/Kristen Stewart.md",
+    "People & Events/Margot Robbie.md",
+    "People & Events/Virginie Viard.md",
+    "Motifs/tweed.md",
+    "hidden/Welcome.md",
+    "People & Events/Anna Kournikova.md",
+    "People & Events/Elvira Hancock.md",
+    "By Year/2023 1",
+    "hidden/images/09c/elvira03.png",
+    "hidden/images/09c/elvira02.jpg",
+    "Cities & Places/Los Angeles, CA, USA.md",
+    "Cities & Places/Paramount Studios.md",
+    "About Chanel's Collections.md",
+    "By Year/2023",
+    "hidden/images/09c/karl-sequin-jacket2.png.crdownload",
+    "Iconic Pieces",
+    "hidden/images/09c",
+    "chanelcanvas.canvas"
+  ]
+}
